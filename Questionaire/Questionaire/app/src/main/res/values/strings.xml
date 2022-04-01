@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Questionaire</string>
+    <string name="next">Next</string>
+    <string name="your_answer">Your answer</string>
+    <string name="thanks">Thanks</string>
+    <string name="correct">Correct</string>
+    <string name="not_correct">Not correct</string>
+</resources>
